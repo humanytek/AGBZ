@@ -1,1 +1,0 @@
-{"name": "Caller Registry", "version": "1.0", "category": "Tools", "author": "Your Name"}
