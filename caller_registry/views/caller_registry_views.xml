@@ -1,1 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?><odoo><data><record id="caller_registry_view" model="ir.ui.view"><field name="name">caller.registry.view</field><field name="model">caller.registry</field><field name="arch" type="xml"><calendar string="Caller Registry"><field name="date"/><field name="start_time"/><field name="end_time"/></calendar></field></record></data></odoo>
